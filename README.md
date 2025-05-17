@@ -1,6 +1,6 @@
 # City Without Crime 🚨🌐
 
-**City Without Crime** is a web-based crime awareness and reporting platform developed as a major project during the 6th semester of B.Tech CSE at KIIT. The aim is to create a digital interface where citizens can report crimes, view crime-prone zones, and engage with authorities for a safer community.
+**City Without Crime** is a web-based crime awareness and reporting platform developed under IFACET, E&ICT Academy, IIT Kanpur & MeitY as part of summer internship program. The aim is to create a digital interface where citizens can report crimes, view crime-prone zones, and engage with authorities for a safer community.
 
 ## 🛠️ Technologies Used
 
